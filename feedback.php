@@ -254,7 +254,7 @@ if(isset($_GET['error'])) {
 </main>
 <footer>
 	<em><h5 class=" text-center p-0 brand mt-2">
-				<img src="assets/images/plane-logo.png" 
+				<img src="assets/images/Flight1.jpg" alt=";
 					height="40px" width="40px" alt="">				
 			</h5></em>
 	<p class=" text-center">&copy; <?php echo date('Y');?> - Online Flight Booking</p>

@@ -43,7 +43,7 @@ h5. {
 }
 h1{
     font-family :'product sans' !important;
-	color:#4caf50;
+	color:blue;
 	font-size:50px;
 	margin-top:50px;
 	text-align:center;
@@ -619,9 +619,9 @@ h1 {
 	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } ;</script>	
 	<div class="main-agileinfo">
 		<h1 class=" brand mt-2">
-			<img src="assets/images/plane-logo.png" 
+			<img src="assets/images/Flight1.jpg" alt=" 
 				height="105px" width="105px" alt="">				
-		Online Flight Booking</h1>
+		Online Flight Booking MAB101</h1>
 		<div class="sap_tabs">			
 			<div id="horizontalTab">
 				<ul class="resp-tabs-list">
@@ -829,10 +829,10 @@ div.card {
 	</div>
 	<footer class="mt-5">
 	<em><h5 class="text-dark text-center p-0 brand mt-2">
-				<img src="assets/images/plane-logo.png" 
+				<img src="assets/images/Flight1.jpg" alt; 
 					height="40px" width="40px" alt="">				
 			</h5></em>
-	<div class=" text-center">&copy; <?php echo date('Y')?> - Online Flight Booking<br><br></div>
+	<div class=" text-center">&copy; <?php echo date('Y')?> - Online Flight Booking DEVMAB101<br><br></div>
 	<!-- <p>----------</p> -->
 	
 	</footer>	
