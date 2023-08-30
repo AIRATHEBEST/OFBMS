@@ -238,7 +238,7 @@ $(document).ready(function(){
       height: 2.5rem;  
     ">
 	<em><h5 class="text-light text-center p-0 brand mt-2">
-				<img src="assets/images/plane-logo.png" 
+				<img src="assets/images/Flight1.jpg" alt;
 					height="40px" width="40px" alt="">				
 			Online Flight Booking</h5></em>
 	<p class="text-light text-center">&copy; <?php echo date('Y')?></p>
